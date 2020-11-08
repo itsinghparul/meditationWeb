@@ -1,1 +1,2 @@
-# meditationWeb
+# meditation-app
+Meditation app tutorial
